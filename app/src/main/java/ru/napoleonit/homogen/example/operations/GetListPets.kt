@@ -4,8 +4,8 @@ import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
 import okhttp3.HttpUrl
 import okhttp3.OkHttpClient
-import ru.napoleonit.homogen.example.Error
-import ru.napoleonit.homogen.example.Pet
+import ru.napoleonit.homogen.example.models.Error
+import ru.napoleonit.homogen.example.models.Pet
 import ru.napoleonit.homogen.example.ServerConfig
 
 

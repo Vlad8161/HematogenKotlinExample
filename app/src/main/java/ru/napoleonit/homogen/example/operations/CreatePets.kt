@@ -1,10 +1,10 @@
 package ru.napoleonit.homogen.example.operations
 
 import com.squareup.moshi.Moshi
+import ru.napoleonit.homogen.example.models.Error
 import okhttp3.HttpUrl
 import okhttp3.OkHttpClient
 import okhttp3.RequestBody
-import ru.napoleonit.homogen.example.Error
 import ru.napoleonit.homogen.example.ServerConfig
 
 
